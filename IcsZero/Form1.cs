@@ -131,6 +131,7 @@ namespace IcsZero
           
         }
 
+        // TODO faceti restul sa mearga :(
         private void label3_Click(object sender, EventArgs e)
         {
             if (label3.Text == "")
